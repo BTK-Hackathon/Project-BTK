@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175815746346",
+    "project_id": "btk-hackathon",
+    "storage_bucket": "btk-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175815746346:android:f4addfc07534d3222b3453",
+        "android_client_info": {
+          "package_name": "com.example.btk_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDho4m0c1fkLrQR2BPX7tPdmyE3FCimh34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -32,8 +32,8 @@ Bu projede, eğitim kategorisinde genç yaş grubundaki kullanıcıların yanlı
    - Projeyi klonlayın veya zip olarak indirin:
 
      ```bash
-     git clone https://github.com/kullaniciadi/proje-adi.git
-     cd proje-adi
+     git clone https://github.com/BTK-Hackathon/Project-BTK
+     cd Project-BTK
      ```
 
 3. **Backend Sunucusunu Başlatın:**

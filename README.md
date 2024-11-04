@@ -40,7 +40,7 @@ Bu projede, eğitim kategorisinde genç yaş grubundaki kullanıcıların yanlı
    - Aşağıdaki komut ile FastAPI backend sunucusunu çalıştırın:
 
      ```bash
-     uvicorn main:app --reload --host 0.0.0.0 --port 8000
+     uvicorn main4:app --reload --host 0.0.0.0 --port 8000
      ```
 
 4. **Flutter Uygulamasını Çalıştırın:**

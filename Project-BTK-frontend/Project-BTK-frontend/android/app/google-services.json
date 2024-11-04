@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295406598723",
+    "project_id": "btkproject-75d41",
+    "storage_bucket": "btkproject-75d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295406598723:android:6895ba3ece6eb45dd172f6",
+        "android_client_info": {
+          "package_name": "com.example.btk_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrMNV79za-o77ZhA93xgXCyaSLZCtmTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
